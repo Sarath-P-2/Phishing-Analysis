@@ -37,7 +37,14 @@ It clearly shows **DMARC failure**, **DKIM misalignment**, and **SPF alignment i
 
 ## Full Email Header Dump
 
-The full raw email headers analyzed for this email are available in [email_headers.txt](raw_email_headers.txt).
+The full raw email headers analyzed in this task are available in [email_headers.txt](raw_email_headers.txt).
+
+---
+
+## Original Email File
+
+The original phishing email is available as an `.eml` file: [email.eml](email.eml).  
+You can open it using any email client or text editor for further inspection.
 
 ---
 
@@ -50,8 +57,8 @@ The full raw email headers analyzed for this email are available in [email_heade
 - **Don't download unexpected attachments** or click suspicious buttons.
 - **Enable 2FA (Two-Factor Authentication)** for added account protection.
 - **Report phishing emails** to your organization or email provider.
-  
-___
+
+---
 
 ## Conclusion
 This email is a **phishing attempt** designed to:
@@ -60,3 +67,4 @@ This email is a **phishing attempt** designed to:
 - Collect responses via a personal Gmail address
 
 ---
+
