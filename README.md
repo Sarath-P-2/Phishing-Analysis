@@ -34,7 +34,7 @@ This email is a **phishing attempt** designed to:
 
 ---
 
-## 🖼️ Authentication & Relay Report
+## Authentication & Relay Report
 
 Below is a screenshot of the authentication check using an email header analyzer.  
 It clearly shows **DMARC failure**, **DKIM misalignment**, and **SPF alignment issues**:
@@ -43,8 +43,20 @@ It clearly shows **DMARC failure**, **DKIM misalignment**, and **SPF alignment i
 
 ---
 
-## 📑 Full Email Header Dump
+## Full Email Header Dump
 
 The full raw email headers analyzed in this task are available in [email_headers.txt](raw_email_headers.txt).
 
 ---
+
+## How to Avoid Phishing Emails
+
+- **Check the sender's email address** carefully — don’t trust display names alone.
+- **Look for spelling or grammar errors** — legitimate companies proofread their emails.
+- **Hover over links** before clicking — ensure they lead to trusted domains.
+- **Never respond to urgent threats** without verifying the source.
+- **Don't download unexpected attachments** or click suspicious buttons.
+- **Enable 2FA (Two-Factor Authentication)** for added account protection.
+- **Report phishing emails** to your organization or email provider.
+  
+___
