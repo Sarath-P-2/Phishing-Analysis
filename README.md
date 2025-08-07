@@ -37,7 +37,7 @@ It clearly shows **DMARC failure**, **DKIM misalignment**, and **SPF alignment i
 
 ## Full Email Header Dump
 
-The full raw email headers analyzed in this task are available in [email_headers.txt](raw_email_headers.txt).
+The full raw email headers analyzed for this email are available in [email_headers.txt](raw_email_headers.txt).
 
 ---
 
