@@ -26,14 +26,6 @@
 
 ---
 
-## Conclusion
-This email is a **phishing attempt** designed to:
-- Steal user information via social engineering
-- Appear legitimate through fake branding and urgency
-- Collect responses via a personal Gmail address
-
----
-
 ## Authentication & Relay Report
 
 Below is a screenshot of the authentication check using an email header analyzer.  
@@ -60,3 +52,11 @@ The full raw email headers analyzed in this task are available in [email_headers
 - **Report phishing emails** to your organization or email provider.
   
 ___
+
+## Conclusion
+This email is a **phishing attempt** designed to:
+- Steal user information via social engineering
+- Appear legitimate through fake branding and urgency
+- Collect responses via a personal Gmail address
+
+---
